@@ -1,0 +1,29 @@
+================================================================================
+Titlu        : Tema 2 - Vectori si valori proprii
+Nume         : Rosu
+Prenume      : Gabriel - David
+Seria        : CD
+Grupa        : 311
+Data         : 23 Aprilie 2017
+================================================================================
+
+[*] Cerinta 1
+  Calculez valorile pentru P(1) si P(2), dupa care pentru P(k), k=2:n.
+  Functia intoarce vectorul P.
+
+[*] Cerinta 2
+  Ma folosesc de functia ValoriPolinoame.m de la prima cerinta pentru a afla
+numvp. Functia intoarce numvp, numarul de valori proprii mai mici decat
+val_lambda.
+
+[*] Cerinta 3
+  Utilizez teoria din tema pentru a afla limitele (inferioara si superioara)
+pentru valorile proprii ale matricei tridiagonale simetrice.
+
+[*] Cerinta 4
+  Folosind formulele, aflu cele m intervale corespunzatoare valorilor proprii.
+
+[*] Cerinta 5
+  Cu ajutorul cerintei 4 de aflare a intervalelor, se pot afla valorile proprii.
+
+================================================================================
